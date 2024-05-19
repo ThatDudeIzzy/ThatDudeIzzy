@@ -1,6 +1,6 @@
 <h1 align="center">Hello! :wave:, I'm Ryan Isbell AKA "Izzy"</h1>
 <h3 align="center">A RedM/FiveM developer, student, & IT employee. Previous microsoldering technician for data recovery.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*OoVtG_9aKC3I7j9c.gif">
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*OoVtG_9aKC3I7j9c.gif">
 
 - 🔭 I’m currently working on **FiveM/RedM Projects / Personal Database Projects**
 

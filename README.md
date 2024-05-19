@@ -1,27 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)]
 <h1 align="center">Hello! :wave:, I'm Ryan Isbell AKA "Izzy"</h1>
-<h3 align="center">A RedM/FiveM developer, student, & IT employee. Previous microsoldering technician for data recovery.</h3>
-<img align="middle" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*OoVtG_9aKC3I7j9c.gif">
+<h3 align="center">A RedM/FiveM developer, student, & IT employee.</h3>
+<h3 align="center">Previous data recovery microsoldering technician.</h3>
+<div align="center">
+    <img align="middle" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*OoVtG_9aKC3I7j9c.gif">
+</div>
 
 - 🔭 I’m currently working on **FiveM/RedM Projects / Personal Database Projects**
 
 - 🌱 I’m currently learning **Every flavor of SQL, C#, and more front end languages.**
 
 - 📫 How to reach me **mrisbell90@gmail.com**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="middle">Languages and Tools:</h3>

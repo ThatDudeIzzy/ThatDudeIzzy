@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)]
-<h1 align="center">Hello! :wave:, I'm Ryan Isbell AKA "Izzy"</h1>
+<h1 align="center">Hello! :wave:, I'm Ryan AKA "Izzy"</h1>
 <h3 align="center">A RedM/FiveM developer, student, & IT employee.</h3>
 <h3 align="center">Previous data recovery microsoldering technician.</h3>
 <div align="center">
